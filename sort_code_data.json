@@ -1,0 +1,324 @@
+[
+    {
+        "sortCode": "070093",
+        "bank": "NATIONWIDE BUILDING SOCIETY",
+        "city": "Swindon L",
+        "zip": "SN38 1NW",
+        "phone": "0800 302011"
+    },
+    {
+        "sortCode": "070116",
+        "bank": "NATIONWIDE BUILDING SOCIETY",
+        "city": "Swindon L",
+        "zip": "SN38 1NW",
+        "phone": "0800 302011"
+    },
+    {
+        "sortCode": "070246",
+        "bank": "NATIONWIDE BUILDING SOCIETY",
+        "city": "SWINDON",
+        "zip": "SN38 1NW",
+        "phone": "0800 302011"
+    },
+    {
+        "sortCode": "070436",
+        "bank": "NATIONWIDE BUILDING SOCIETY",
+        "city": "Swindon",
+        "zip": "SN38 1NW",
+        "phone": "0800 302011"
+    },
+    {
+        "sortCode": "074456",
+        "bank": "NATIONWIDE BUILDING SOCIETY",
+        "city": "Swindon L",
+        "zip": "SN38 1NW",
+        "phone": "0800 302011"
+    },
+    {
+        "sortCode": "083210",
+        "bank": "CITIBANK NA",
+        "city": "London",
+        "zip": "E14 5LB",
+        "phone": "020 75005000"
+    },
+    {
+        "sortCode": "086064",
+        "bank": "VIRGIN MONEY PLC",
+        "city": "Gosforth",
+        "zip": "NE3 4PL",
+        "phone": "0845 6008401"
+    },
+    {
+        "sortCode": "087199",
+        "bank": "APS FINANCIAL LTD",
+        "city": "LONDON",
+        "zip": "EC3P 3WR",
+        "phone": "0207 1005850"
+    },
+    {
+        "sortCode": "089249",
+        "bank": "THE CO-OPERATIVE BANK PLC",
+        "city": "Manchester",
+        "zip": "M60 1GP",
+        "phone": "0845 7212212"
+    },
+    {
+        "sortCode": "089286",
+        "bank": "THE CO-OPERATIVE BANK PLC",
+        "city": "Skelmersdale",
+        "zip": "WN8 6GF",
+        "phone": "08457 212212"
+    },
+    {
+        "sortCode": "089300",
+        "bank": "THE CO-OPERATIVE BANK PLC",
+        "city": "Manchester",
+        "zip": "M60 1GP",
+        "phone": "0845 7212212"
+    },
+    {
+        "sortCode": "090126",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": "0870 6000125"
+    },
+    {
+        "sortCode": "090127",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": "0870 6000125"
+    },
+    {
+        "sortCode": "090128",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": "0870 6000125"
+    },
+    {
+        "sortCode": "090132",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": ""
+    },
+    {
+        "sortCode": "090133",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": ""
+    },
+    {
+        "sortCode": "090134",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": ""
+    },
+    {
+        "sortCode": "090135",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": ""
+    },
+    {
+        "sortCode": "090136",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": ""
+    },
+    {
+        "sortCode": "090222",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": "0870 6000125"
+    },
+    {
+        "sortCode": "090666",
+        "bank": "Santander UK plc",
+        "city": "MERSEYSIDE",
+        "zip": "L30 4UA",
+        "phone": "0845 6070666"
+    },
+    {
+        "sortCode": "110001",
+        "bank": "HALIFAX (A TRADING NAME OF BANK OFSCOTLAND PLC)",
+        "city": "Leeds",
+        "zip": "LS1 9GG",
+        "phone": "0345 7394959"
+    },
+    {
+        "sortCode": "111425",
+        "bank": "HALIFAX (A TRADING NAME OF BANK OFSCOTLAND PLC)",
+        "city": "Leeds",
+        "zip": "LS1 9GG",
+        "phone": "0345 7394959"
+    },
+    {
+        "sortCode": "161623",
+        "bank": "THE ROYAL BANK OF SCOTLAND PLC",
+        "city": "Bolton",
+        "zip": "BL6 4YU",
+        "phone": "0345 3660640"
+    },
+    {
+        "sortCode": "180002",
+        "bank": "COUTTS & CO",
+        "city": "London",
+        "zip": "WC2R 0QS",
+        "phone": "020 77531000"
+    },
+    {
+        "sortCode": "185008",
+        "bank": "CITIBANK NA",
+        "city": "London",
+        "zip": "E14 5LB",
+        "phone": "020 75005000"
+    },
+    {
+        "sortCode": "200000",
+        "bank": "BARCLAYS BANK PLC",
+        "city": "Leicester",
+        "zip": "LE87 2BB",
+        "phone": "0345 7345345"
+    },
+    {
+        "sortCode": "200415",
+        "bank": "BARCLAYS BANK PLC",
+        "city": "Northampton",
+        "zip": "NN4 7SG",
+        "phone": "01604 234234"
+    },
+    {
+        "sortCode": "202963",
+        "bank": "BARCLAYS BANK PLC",
+        "city": "Leicester",
+        "zip": "LE87 2BB",
+        "phone": "0345 7345345"
+    },
+    {
+        "sortCode": "205101",
+        "bank": "BARCLAYS BANK PLC",
+        "city": "Leicester",
+        "zip": "LE87 2BB",
+        "phone": "0345 7345345"
+    },
+    {
+        "sortCode": "207094",
+        "bank": "BARCLAYS BANK PLC",
+        "city": "Leicester",
+        "zip": "LE87 2BB",
+        "phone": "0345 7345345"
+    },
+    {
+        "sortCode": "230580",
+        "bank": "METRO BANK PLC",
+        "city": "London",
+        "zip": "WC1B 5HA",
+        "phone": "0345 0808500"
+    },
+    {
+        "sortCode": "231884",
+        "bank": "SPECTRUM PAYMENT SERVICES LTD\u00a0    T/ACARDONEBANKING",
+        "city": "CHESTER",
+        "zip": "CH4 9EP",
+        "phone": "01244 572300"
+    },
+    {
+        "sortCode": "300002",
+        "bank": "LLOYDS BANK PLC",
+        "city": "Gillingham",
+        "zip": "ME8 0LS",
+        "phone": "0345 9825323"
+    },
+    {
+        "sortCode": "301599",
+        "bank": "LLOYDS BANK PLC",
+        "city": "Gillingham",
+        "zip": "ME8 0LS",
+        "phone": "020 77752797"
+    },
+    {
+        "sortCode": "400250",
+        "bank": "HSBC BANK PLC",
+        "city": "London",
+        "zip": "SE1 9DZ",
+        "phone": "0845 6064321"
+    },
+    {
+        "sortCode": "400515",
+        "bank": "HSBC BANK PLC",
+        "city": "",
+        "zip": "EC3M 4BA",
+        "phone": ""
+    },
+    {
+        "sortCode": "400530",
+        "bank": "HSBC BANK PLC",
+        "city": "London",
+        "zip": "EC4N 4TR",
+        "phone": ""
+    },
+    {
+        "sortCode": "401255",
+        "bank": "HSBC BANK PLC",
+        "city": "Chester",
+        "zip": "CH99 9FB",
+        "phone": "01244 686076"
+    },
+    {
+        "sortCode": "405162",
+        "bank": "SVENSKA HANDELSBANKEN AB (PUBL)",
+        "city": "London",
+        "zip": "E1W 1WY",
+        "phone": "020 75788000"
+    },
+    {
+        "sortCode": "406301",
+        "bank": "COVENTRY BUILDING SOCIETY",
+        "city": "Coventry",
+        "zip": "CV1 5QN",
+        "phone": "02476 839209"
+    },
+    {
+        "sortCode": "560029",
+        "bank": "NATIONAL WESTMINSTER BANK PLC",
+        "city": "Chatham",
+        "zip": "ME4 4RT",
+        "phone": "0870 2403355"
+    },
+    {
+        "sortCode": "600001",
+        "bank": "NATIONAL WESTMINSTER BANK PLC",
+        "city": "Chatham",
+        "zip": "ME4 4RT",
+        "phone": "0870 2403355"
+    },
+    {
+        "sortCode": "623053",
+        "bank": "NATIONAL WESTMINSTER BANK PLC",
+        "city": "Bolton",
+        "zip": "BL1 8FH",
+        "phone": "0845 3088935"
+    },
+    {
+        "sortCode": "772026",
+        "bank": "LLOYDS BANK PLC",
+        "city": "Chelmsford",
+        "zip": "CM1 1JS",
+        "phone": "0345 3000000"
+    },
+    {
+        "sortCode": "835000",
+        "bank": "THE ROYAL BANK OF SCOTLAND PLC",
+        "city": "Greenock",
+        "zip": "PA15 1EF",
+        "phone": "0131 3126790"
+    }
+]
